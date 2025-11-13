@@ -157,8 +157,9 @@ To confirm that Apache is running:
 
 ```bash
 sudo systemctl status httpd
-
+```
 It showed active (running) ✅
+
 
 ---
 
@@ -252,8 +253,7 @@ and it increased my confidence in working with AWS.
 
 ---
 
-If you want, I can now generate **Day 3 FULL README.md** in one block also (all sections 1–12).
-```
+
 
 
 
